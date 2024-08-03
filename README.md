@@ -17,6 +17,7 @@ Installation
 
 
 git clone https://github.com/Daxcellcn/go-nids.git
+
 cd go-nids
 
 Build the Application:
